@@ -1,4 +1,4 @@
-package org.jug.montpellier.ai.model;
+package org.jug.montpellier.vux.ai.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 

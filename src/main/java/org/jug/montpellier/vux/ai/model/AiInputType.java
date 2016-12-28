@@ -1,4 +1,4 @@
-package org.jug.montpellier.ai.model;
+package org.jug.montpellier.vux.ai.model;
 
 public enum AiInputType {
     UNSPECIFIC_INPUT_TYPE, TOUCH, VOICE
