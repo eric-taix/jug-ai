@@ -27,7 +27,7 @@ public class AIRouter {
                 return route.execute(response);
             } catch (Exception e) {
                 LOG.error("Route " + route + " thrown an exception", e);
-                throw new Exception();
+                throw e;
             }
         }
         else {
